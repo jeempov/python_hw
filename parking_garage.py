@@ -71,5 +71,3 @@ new_garage.leaveGarage(ticket)
 # print(new_garage.tickets) 
 # print(new_garage.parkingSpaces)
 # print(new_garage.currentTicket)
-
-1
